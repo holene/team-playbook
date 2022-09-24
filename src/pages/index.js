@@ -18,14 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Nytt team? Start her!
-          </Link>
-        </div>
-        <div className={styles.buttons}>
-        <Link 
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Eksisterende team? Prøv meg!
+            Start her!
           </Link>
         </div>
       </div>
@@ -37,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Team Playbook is a collection of team activities and the coaching community in NAV IT">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
