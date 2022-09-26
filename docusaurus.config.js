@@ -76,11 +76,11 @@ const config = {
             label: 'Fremragende team',
             position: 'left',
           },
-          {
-            href: 'new-team',
-            position: 'left',
-            label: 'Nytt team'
-          },
+          // {
+          //   href: 'new-team',
+          //   position: 'left',
+          //   label: 'Nytt team'
+          // },
           // {
           //   type: 'doc',
           //   docId: 'new-team',
@@ -99,7 +99,7 @@ const config = {
           //   position: 'left',
           //   label: 'Fremragende team',
           // },
-            {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/holene/team-playbook.git',
             label: 'GitHub',

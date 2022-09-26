@@ -1,8 +1,3 @@
 {
-  "label": "Verktøykasse",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Et oppslagsverk for gode team-verktøy. "
-  }
+  "label": "Verktøykasse"
 }

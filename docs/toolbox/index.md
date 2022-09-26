@@ -1,7 +1,6 @@
 ---
 title: Verktøykasse
 hide_table_of_contents: true
-id: toolbox
 ---
 
 Vi har laget en liten samling med helt konkrete verktøy som teamet ditt kan ta i bruk for å 
