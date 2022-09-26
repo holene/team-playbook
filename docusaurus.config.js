@@ -67,15 +67,39 @@ const config = {
             type: 'doc',
             docId: 'index',
             position: 'left',
-            label: 'Verktøykasse'
+            label: 'Introduksjon'
           },
           {
-            type: 'doc',
-            docId: 'intro',
+            // type: 'link',
+            href: '/docs/fremragende-team/',
+            // href: 'docs/fremragende-team',
+            label: 'Fremragende team',
             position: 'left',
-            label: 'Nytt team',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'new-team',
+            position: 'left',
+            label: 'Nytt team'
+          },
+          // {
+          //   type: 'doc',
+          //   docId: 'new-team',
+          //   position: 'left',
+          //   label: 'Nytt team',
+          // },
+          // {
+          //   type: 'doc',
+          //   docId: 'toolbox/toolbox',
+          //   position: 'left',
+          //   label: 'Verktøykasse'
+          // },
+          // {
+          //   type: 'doc',
+          //   docId: 'fremragende-team',
+          //   position: 'left',
+          //   label: 'Fremragende team',
+          // },
+            {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/holene/team-playbook.git',
             label: 'GitHub',
