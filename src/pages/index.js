@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/">
             Start her!
           </Link>
         </div>
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Team Playbook is a collection of team activities and the coaching community in NAV IT">
+      description="Team Playbook is a collection of team activities and showcase examples from the coaching community in NAV IT">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

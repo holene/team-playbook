@@ -1,6 +1,5 @@
 ---
-title: Indeks
-hide_table_of_contents: false
+title: Introduksjon
 sidebar_position: 1
 ---
 

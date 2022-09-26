@@ -20,7 +20,7 @@ Dette kan være et TEAM SURVIVAL KIT.
 
 Informasjon om Team Canvas her. 
 
-[Finn tips til gjennomføring her](/docs/toolbox/team-canvas.md)
+[Finn tips til gjennomføring her](/docs/toolbox/team-dynamics/team-canvas.md)
 
 </p>
 </details>

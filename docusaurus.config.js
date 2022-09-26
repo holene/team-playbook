@@ -66,21 +66,24 @@ const config = {
           {
             type: 'doc',
             docId: 'index',
-            position: 'left',
-            label: 'Introduksjon'
+            label: 'Introduksjon',
+            position: 'left'
           },
           {
-            // type: 'link',
+            href: '/docs/new-team/',
+            label: 'Nytt team ⭐️',
+            position: 'left'
+          },
+          {
             href: '/docs/fremragende-team/',
-            // href: 'docs/fremragende-team',
-            label: 'Fremragende team',
+            label: 'Fremragende team 🚀',
+            position: 'left'
+          },
+          {
+            href: '/docs/toolbox/',
+            label: 'Verktøykasse 🛠',
             position: 'left',
           },
-          // {
-          //   href: 'new-team',
-          //   position: 'left',
-          //   label: 'Nytt team'
-          // },
           // {
           //   type: 'doc',
           //   docId: 'new-team',
@@ -99,7 +102,7 @@ const config = {
           //   position: 'left',
           //   label: 'Fremragende team',
           // },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blogg', position: 'left'},
           {
             href: 'https://github.com/holene/team-playbook.git',
             label: 'GitHub',
@@ -115,7 +118,7 @@ const config = {
             items: [
               {
                 label: 'Fremragende team',
-                to: '/docs/intro',
+                to: '/docs/index',
               },
             ],
           },
