@@ -1,10 +1,9 @@
 ---
-sidebar_position: 1
 ---
 
-# Service Blueprint Canvas
+# Value Proposition Canvas
 
-Hva er et Service Blueprint Canvas?
+Hva er et Value Proposition Canvas? 
 
 Relevant info, lenker, fremgangemåte. 
 
