@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Team Playbook',
-  tagline: 'En ressurssamling for diverse team i NAV IT',
+  tagline: 'En ressurssamling for team i NAV IT',
   url: 'https://holene.github.io',
   baseUrl: '/team-playbook/',
   onBrokenLinks: 'throw',

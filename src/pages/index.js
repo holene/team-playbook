@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Team Playbook is a collection of team activities and showcase examples from the coaching community in NAV IT">
+      description="Team Playbook is a collection of team activities and showcase examples from the product development community in NAV IT">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
