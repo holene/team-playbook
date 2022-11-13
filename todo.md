@@ -1,5 +1,15 @@
 # Huskeliste for playbook
 
+Hva handler Team Playbook om? Hva kan vi gjøre for å alltid bli bedre? 
+
+Teori: hva er psykologisk trygghet? 
+
+Tenk «ansattreisen» for teammedlemmer/team. 
+Team Handbook / Team Wiki
+Medlemsportretter
+* relasjoner, psykologisk trygghet
+* skaper alene, går gjennom og deler to og to
+
 Hvis det går kurs, hvordan vet man om dem uten å måtte manuelt legge inn når de er og hvor de er og hvordan man melder seg på? 
 * Sync med kalendere? 
 * push til Slack? Påmelding via Mailchimp-ish?
@@ -15,7 +25,6 @@ Tema-sider?
     * Slack
     * Sharepoint (grøss)
     * 
-    
 
 Dårlig erfaring med Teamcanvas: hva skjer da? 
 
@@ -24,7 +33,8 @@ Teori: hva er et team?
 Grafen over livet ditt. 
 Den lange historien om deg. 
 
-
+Kurskatalog
+* Det burde være enkelt å se hvilke kurs som er tilgjengelig. Ref pakkeforløpet som er blitt diskutert. 
 
 Retro
 * Hvordan gjennomføre retro med 20 stykker?
